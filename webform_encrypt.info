@@ -1,0 +1,9 @@
+name = Webform Encrypt
+description = Provides encryption for webform components
+backdrop = 1.x
+type = module
+package = Webform
+
+dependencies[] = encrypt
+dependencies[] = webform
+
